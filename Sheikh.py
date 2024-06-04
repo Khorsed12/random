@@ -1,1 +1,1 @@
-import Sheikh
+import pow
